@@ -10,7 +10,7 @@ namespace ConsoleApplication1
     {
         public void AddTwovalues(int a, int b)
         {
-
+            
         }
     }
 }
