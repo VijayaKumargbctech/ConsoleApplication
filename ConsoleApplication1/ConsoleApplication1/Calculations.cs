@@ -6,10 +6,11 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class Calculations
     {
-        static void Main(string[] args)
+        public void AddTwovalues(int a, int b)
         {
+
         }
     }
 }
